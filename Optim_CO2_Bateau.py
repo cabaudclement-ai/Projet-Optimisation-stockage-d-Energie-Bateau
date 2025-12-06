@@ -7,8 +7,8 @@ Created on Mon Sep 29 11:13:25 2025
 
 #Importation des modules
 
-import numpy as np
-import turtle
+#import numpy as np
+#import turtle
 import matplotlib.pyplot as plt
 
 #Le type de bateau est toujours le même
