@@ -667,11 +667,12 @@ plt.show()
 ####################################################################################################################################
 #Sorties
 ####################################################################################################################################
-
+#Il faut passer sur une condition sur le nombre de stop et non sur le temps dans la boucle while principale
 
 #Sortie
 #H2_stock
 #batt_capa
 #P_pile_H
 #P_batt
+
 
